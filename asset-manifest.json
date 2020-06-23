@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/jsopatrny.github.io/static/css/main.4168b200.chunk.css",
-    "main.js": "/jsopatrny.github.io/static/js/main.c59bbded.chunk.js",
-    "main.js.map": "/jsopatrny.github.io/static/js/main.c59bbded.chunk.js.map",
-    "runtime-main.js": "/jsopatrny.github.io/static/js/runtime-main.2939b415.js",
-    "runtime-main.js.map": "/jsopatrny.github.io/static/js/runtime-main.2939b415.js.map",
-    "static/js/2.7fcb6a0d.chunk.js": "/jsopatrny.github.io/static/js/2.7fcb6a0d.chunk.js",
-    "static/js/2.7fcb6a0d.chunk.js.map": "/jsopatrny.github.io/static/js/2.7fcb6a0d.chunk.js.map",
-    "index.html": "/jsopatrny.github.io/index.html",
-    "precache-manifest.2f30f7ee570bc189313f8f308e0827e2.js": "/jsopatrny.github.io/precache-manifest.2f30f7ee570bc189313f8f308e0827e2.js",
-    "service-worker.js": "/jsopatrny.github.io/service-worker.js",
-    "static/css/main.4168b200.chunk.css.map": "/jsopatrny.github.io/static/css/main.4168b200.chunk.css.map",
-    "static/js/2.7fcb6a0d.chunk.js.LICENSE.txt": "/jsopatrny.github.io/static/js/2.7fcb6a0d.chunk.js.LICENSE.txt",
-    "static/media/404.gif": "/jsopatrny.github.io/static/media/404.ad99ccbb.gif",
-    "static/media/icon.png": "/jsopatrny.github.io/static/media/icon.19338177.png",
-    "static/media/icon2.png": "/jsopatrny.github.io/static/media/icon2.9dd9056d.png",
-    "static/media/me.jpg": "/jsopatrny.github.io/static/media/me.efa10377.jpg",
-    "static/media/resume.pdf": "/jsopatrny.github.io/static/media/resume.f92b1ebc.pdf"
+    "main.css": "/static/css/main.4168b200.chunk.css",
+    "main.js": "/static/js/main.5b022dff.chunk.js",
+    "main.js.map": "/static/js/main.5b022dff.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.974924c2.js",
+    "runtime-main.js.map": "/static/js/runtime-main.974924c2.js.map",
+    "static/js/2.7fcb6a0d.chunk.js": "/static/js/2.7fcb6a0d.chunk.js",
+    "static/js/2.7fcb6a0d.chunk.js.map": "/static/js/2.7fcb6a0d.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.61a3951d5a7835a12a7733d7208c03b8.js": "/precache-manifest.61a3951d5a7835a12a7733d7208c03b8.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.4168b200.chunk.css.map": "/static/css/main.4168b200.chunk.css.map",
+    "static/js/2.7fcb6a0d.chunk.js.LICENSE.txt": "/static/js/2.7fcb6a0d.chunk.js.LICENSE.txt",
+    "static/media/404.gif": "/static/media/404.ad99ccbb.gif",
+    "static/media/icon.png": "/static/media/icon.19338177.png",
+    "static/media/icon2.png": "/static/media/icon2.9dd9056d.png",
+    "static/media/me.jpg": "/static/media/me.efa10377.jpg",
+    "static/media/resume.pdf": "/static/media/resume.f92b1ebc.pdf"
   },
   "entrypoints": [
-    "static/js/runtime-main.2939b415.js",
+    "static/js/runtime-main.974924c2.js",
     "static/js/2.7fcb6a0d.chunk.js",
     "static/css/main.4168b200.chunk.css",
-    "static/js/main.c59bbded.chunk.js"
+    "static/js/main.5b022dff.chunk.js"
   ]
 }
