@@ -1,26 +1,37 @@
-import React from 'react';
-import logo from './logo.svg';
+import React, { Component } from 'react';
+//import logo from './logo.svg';
+import icon from './icon2.png';
+import Button from '@material-ui/core/Button';
+import AboutMe from './aboutme.js';
+import { BrowserRouter as Router, Switch, Route} from 'react-router-dom';
 import './App.css';
+import Homepage from './homepage.js';
+import Projects from './projects.js';
+import Resume from './resume.js';
+import Notfound from './notfound.js';
 
-function App() {
+class App extends Component {
+  constructor(props) {
+    super(props);
+  }
+
+  
+  render() {
   return (
+    <Router>
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <Switch>
+            <Route path='/' exact component={Homepage} />
+            <Route path="/about" component={AboutMe} />
+            <Route path="/projects" component={Projects} />
+            <Route component={Notfound} />
+            <Homepage />
+        </Switch>
     </div>
+    </Router>
   );
+  }
 }
+
 
 export default App;
